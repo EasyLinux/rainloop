@@ -5,4 +5,4 @@ LABEL author="Serge NOEL <serge.noel@easylinux.fr>" \
 
 RUN apk add mc
     
-
+RUN apk add nano
